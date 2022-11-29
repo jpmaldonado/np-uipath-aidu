@@ -1,0 +1,10 @@
+[
+  {
+    "text": "I like this movie",
+    "label": "1"
+  },
+  {
+    "text": "I hated the acting",
+    "label": "0"
+  }
+]
